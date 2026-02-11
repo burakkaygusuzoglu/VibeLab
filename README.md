@@ -1,10 +1,10 @@
-# 💕 VibeQuest
+# 💕 VibeLab
 
 > **The Ultimate Party Game App** — 3000+ Questions & Challenges for Couples, Friends & Family
 
 <div align="center">
 
-![VibeQuest](https://img.shields.io/badge/VibeQuest-v1.0.0-ff69b4?style=for-the-badge)
+![VibeLab](https://img.shields.io/badge/VibeLab-v1.0.0-ff69b4?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61DAFB?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-3178C6?style=for-the-badge&logo=typescript)
 ![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -15,9 +15,9 @@
 
 ---
 
-## What is VibeQuest?
+## What is VibeLab?
 
-VibeQuest is a beautifully designed React Native mobile application that brings people together through interactive games. Whether you want to strengthen your relationship, entertain your friends, or bond with family - **VibeQuest has it all.**
+VibeLab is a beautifully designed React Native mobile application that brings people together through interactive games. Whether you want to strengthen your relationship, entertain your friends, or bond with family - **VibeLab has it all.**
 
 **Perfect for:**
 - 💑 Couples wanting to deepen connection
@@ -143,8 +143,8 @@ Node.js 18+ • npm or yarn
 
 ### 2. Clone & Install
 ```bash
-git clone https://github.com/yourusername/CoupleArena.git
-cd CoupleArena
+git clone https://github.com/burakkaygusuzoglu/VibeLab.git
+cd VibeLab
 npm install
 ```
 
@@ -278,7 +278,7 @@ MIT Licensed — Use freely, modify, and distribute.
 
 ### Made with 💕 for Everyone
 
-**VibeQuest** — Connect, Play, Bond, Repeat
+**VibeLab** — Connect, Play, Bond, Repeat
 
 Perfect for lovers, friends, families & parties.
 
